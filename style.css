@@ -38,6 +38,8 @@ h2 {
     width: 19%;
     background-color: #fff;
     color: #666;
+    display: inline-block;
+    text-align: center;
   }
 a {
       color: #666;
